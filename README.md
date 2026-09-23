@@ -36,7 +36,7 @@
 
 ## 🔬 Model Lineup
 
-| Model | Target Domain | Native Scale | Model Size | Speed (RTX 2050 / CPU) |
+| Model | Target Domain | Native Scale | Model Size | Speed (GPU / CPU) |
 | :--- | :--- | :---: | :---: | :---: |
 | **RealESR-AnimeVideo-v3** | Anime, Illustrations, Logos, Screenshots, UI | **4×** | `2.4 MB` | **~0.15s** / ~0.8s |
 | **RealESRGAN_x4plus** | Photorealistic portraits, natural scenes, textures | **4×** | `66.2 MB` | **~0.25s** / ~3.2s |
