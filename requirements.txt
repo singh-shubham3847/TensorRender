@@ -1,0 +1,17 @@
+# Core Web Server & API
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-multipart>=0.0.9
+
+# Image Processing & Array Computing
+pillow>=10.0.0
+numpy>=1.23.0
+scipy>=1.10.0
+
+# Neural Network Inference (Default CPU / Auto-fallback)
+# For GPU acceleration on Windows (DirectX 12): replace with 'onnxruntime-directml'
+# For NVIDIA CUDA GPU: replace with 'onnxruntime-gpu'
+onnxruntime>=1.18.0
+
+# Utilities
+requests>=2.31.0
